@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/logos/IT top JOURNAL WHITE THEME.png" width="200" alt="IT TOP Journal Logo"/>
+</p>
+
 # IT TOP - Journal
 
 Добро пожаловать в проект **Journal** — современное приложение для просмотра журнала от колледжа IT TOP.
@@ -6,35 +10,29 @@
 
 ## О проекте
 
-**IT TOP Journal** — это удобное и функциональное мобильное приложение, разработанное с использованием Jetpack Compose для Android. Оно предназначено для студентов колледжа IT TOP, позволяя легко отслеживать расписание и другую важную информацию.
+**IT TOP Journal** — это удобное и функциональное мобильное приложение, разработанное с использованием Jetpack Compose для Android. Оно предназначено для студентов колледжа IT TOP, позволяя легко просматривать расписание.
 
 ---
 
 ## Основные функции
 
-- Авторизация пользователей
-- Просмотр расписания
-- Уведомления и напоминания
+- Авторизация пользователей  
+- Просмотр расписания   
 
 ---
 
 ## Технологии
 
-- **Frontend:** Android Studio с Jetpack Compose
+- **Frontend:** Android Studio + Jetpack Compose  
 
 ---
 
 ## Скриншоты
 
-![Главная страница](images/screenshot1.png)
-![Расписание](images/screenshot2.png)
+<p align="center">
+  <img src="assets/images/screenshots/Authorization.jpg" width="300" alt="Экран авторизации"/>
+</p>
 
----
-
-## Установка и запуск
-
-### Для мобильного приложения:
-
-1. Склонируйте репозиторий:
-```bash
-git clone https://github.com/ваш_пользователь/IT-TOP-Journal.git
+<p align="center">
+  <img src="assets/images/screenshots/Schedule.jpg" width="300" alt="Экран расписания"/>
+</p>

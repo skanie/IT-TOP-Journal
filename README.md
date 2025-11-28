@@ -14,7 +14,7 @@
 - Просмотр расписания по дню / неделе / месяцу  
 - Pull-to-refresh и плавная навигация по датам  
 - Автообновление через GitHub Releases (с принудительными обновлениями)  
-- Современный Material You дизайн  
+- Современный Material 3 дизайн  
 - 100% Kotlin + Compose — никакого XML
 
 ---
@@ -37,7 +37,7 @@
 
 ## Технологии
 
-- Kotlin 1.9+
+- Kotlin 2.1
 - Jetpack Compose + Material3
 - Coroutines + Flow
 - OkHttp + JSON
